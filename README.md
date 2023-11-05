@@ -1,41 +1,21 @@
-# ${data.title}
+# SVG generator
 
 ## Description    
-   
+   This project uses Javascript classes and constructors to generate 3 SVG shapes. 
 
+   The code uses npm Inquirer and npm File System to obtain the user input and generate the logo.svg file.
 
-## Table of Contents
-
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [Tests](#tests)
-- [License](#license)
-- [Contact](#Contact)
-- [GitHub](#GitHub)
-
-## Installation
-
-    
+   The code also uses a JS If statement to confirm the letter count is between 1 and 3. Then a Switch is used to determine the shape selected. 
+ 
 
 ## Usage
 
-    
-
-## Contributions
-
-   
-
-## Tests
-
+    With a terminal open use the command "node index.js" to start the inquirer/program.
   
 
-## Contact Me 
-
-    
-
 ## Check out my GitHub
+
+https://github.com/BreakfastSandwich/Semiprofessional_Video_Goblins
 
   
     
